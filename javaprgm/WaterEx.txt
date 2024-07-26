@@ -1,0 +1,10 @@
+class WaterEx {
+	int price=20;
+	static String color;
+	public Water(){
+		
+		System.out.println("created water");
+		
+	}
+
+}
